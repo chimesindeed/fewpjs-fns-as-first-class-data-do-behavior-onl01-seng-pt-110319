@@ -12,5 +12,7 @@ function handleClick(e) {
 /* Write your implementation of greet() */
 /* Write your implementation of displayMessage() */
 
-function greet(){}
+function greet(){
+  const hour = timeString.parseInt
+}
 function displayMessage(){}
